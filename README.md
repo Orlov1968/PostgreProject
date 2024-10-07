@@ -4,3 +4,4 @@
 <img width="943" alt="Screenshot_6" src="https://github.com/user-attachments/assets/1ab31314-32fa-48a2-a9a4-5f61a320b8b8">
 
 Выполнил миграцию и перенёс ранее созданную модель
+<img width="911" alt="Screenshot_7" src="https://github.com/user-attachments/assets/af31f659-acba-4673-9334-69cdd2dfc5f2">
