@@ -5,6 +5,7 @@
 
 Выполнил миграцию и перенёс ранее созданную модель
 <img width="911" alt="Screenshot_7" src="https://github.com/user-attachments/assets/af31f659-acba-4673-9334-69cdd2dfc5f2">
-![Uploading Screenshot_8.png…]
+<img width="723" alt="Screenshot_8" src="https://github.com/user-attachments/assets/871eeeb9-884b-48dd-a00b-e0ce785bca3f">
+
 
 Заполнил таблицу согласно созданной модели
