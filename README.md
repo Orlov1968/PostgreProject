@@ -5,4 +5,4 @@
 
 Выполнил миграцию и перенёс ранее созданную модель
 <img width="911" alt="Screenshot_7" src="https://github.com/user-attachments/assets/af31f659-acba-4673-9334-69cdd2dfc5f2">
-![Uploading Screenshot_8.png…]()
+![Uploading Screenshot_8.png…]
